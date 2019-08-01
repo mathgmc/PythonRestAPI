@@ -1,6 +1,6 @@
 # Simple Employee Registry API
 
-This is a simple REST API build in Python using Flask, and wrapped in a docker container. The API only register, list and delete employees, as specified in the following sections.
+This is a simple REST API build in Python using Flask, and wrapped in a docker container. The API register, list, update and delete employees, as specified in the following sections.
 
 ## Usage
 
